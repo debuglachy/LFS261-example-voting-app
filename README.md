@@ -1,5 +1,6 @@
 Example Voting App
 =========
+Edit for document
 
 Getting started
 ---------------
