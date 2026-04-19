@@ -1,5 +1,5 @@
 ## Worker Java App
 
-Packaged in files:
+Java App is packaged in files:
 worker.jar
 worker-jar-with-dependencies.jar
