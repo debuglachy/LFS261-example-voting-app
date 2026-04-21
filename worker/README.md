@@ -1,11 +1,25 @@
 ## Worker Java App
 
-Java App is packaged in files:
+Packaged from source into build image
+
+## Package files:
+
 worker.jar
+
 worker-jar-with-dependencies.jar
 
-Docker containers produced in registry:
-worker:v# (# of latest build)
+## Docker registry files:
+
+(# of latest build)
+
+worker:v#
+
 worker:latest
 
+result:v#
 
+result:latest
+
+vote:v#
+
+vote:latest
