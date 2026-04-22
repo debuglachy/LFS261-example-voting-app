@@ -1,3 +1,8 @@
+[![Build Status](http://34.82.250.195:8080/job/instavote/job/monopipe/job/feature%252Fmonopipe/badge/icon)](http://34.82.250.195:8080/job/instavote/job/monopipe/job/feature%252Fmonopipe/) 
+
+[![Build Status](http://34.82.250.195:8080/job/instavote/job/monopipe/job/feature%252Fmonopipe/badge/icon?subject=UnitTest)](http://34.82.250.195:8080/job/instavote/job/monopipe/job/feature%252Fmonopipe/)
+
+
 ## Worker Java App
 
 Packaged from source into build image
