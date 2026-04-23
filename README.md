@@ -1,3 +1,6 @@
+
+Build Status: [![Build Status](http://34.82.250.195:8080/job/instavote/job/monopipe/job/feature%252Fmonopipe/badge/icon)](http://34.82.250.195:8080/job/instavote/job/monopipe/job/feature%252Fmonopipe/) 
+
 Example Voting App
 =========
 Tracks answers to an example set of questions using simple voting buttons.
@@ -58,3 +61,4 @@ Note
 ----
 
 The voting application only accepts one vote per client. It does not register votes if a vote has already been submitted from a client.
+
