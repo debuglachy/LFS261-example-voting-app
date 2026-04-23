@@ -19,5 +19,5 @@ FROM base AS final
 COPY . .
 
 EXPOSE 80
-
+#runs gunicorn over app dir
 CMD ["gunicorn", "app:app", "-b", "0.0.0.0:80", "--log-file", "-", "--access-logfle", "-", "--workers", "4", "--keep-alive", "0"]
