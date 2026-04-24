@@ -29,6 +29,8 @@ services:
     healthcheck:
       test: /healthchecks/postgres.sh
       interval: "5s"
+    networks:
+      - instavote
   result:
     image: maxlachy/result:latest
     ports:
